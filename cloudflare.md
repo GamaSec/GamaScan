@@ -19,5 +19,4 @@
 
     GamaSec
 
-    Terms of service
-
+    [Terms of service](https://www.gamasec.com/TermsOfUse.aspx)
