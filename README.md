@@ -76,4 +76,4 @@ GamaSec provides Web security application scan as a service through the Cloud. W
 •	Security Seal
 
 
-![String example](./GamaScan/public/images/example1.png "Website Application Security Scanner")
+![Website Application Security Scanner](./GamaScan/public/images/example1.png "Website Application Security Scanner")
