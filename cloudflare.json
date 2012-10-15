@@ -1,0 +1,46 @@
+{
+        "account": {
+        "callback_url": "http://81.218.57.250:11555/CloudFlare/",
+        “user_fields”: [“email”]
+},
+"billing": {
+        "type": "zone",
+        "plans":[
+                {
+                        "name" : "Basic",
+                        "price": "7.99"
+                },
+                {
+                        "name" : "Premium",
+                        "price" : "16.99"
+                }
+        ]
+},
+config: {
+"interface":[
+                {
+                                "type": "string",
+                                "name": "port",
+                                "description": "Please enter domain port number.",
+                                "domain_request": true
+                },
+	  {                
+		    "id": "Protocol",
+                                "type": "select",
+	                  "name": "Domain Protocol", 
+                                "description": "Choose Protocol",
+	                  "options":
+                                              [
+                                                 {
+                                                       "label": "HTTP",
+                                                       "value": "80"
+                                                 },                    
+                                                 { 
+                                                       "label": "HTTPS",
+                                                       "value": "443"
+                                                 }
+                                              ]            
+                }
+                ]
+        }
+}
