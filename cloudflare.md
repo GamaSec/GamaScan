@@ -3,8 +3,7 @@
     
     App details
 	
-    Category
-	
+    Category	
     Website Application Security Scanner
     identify security weaknesses in web applications.
     
@@ -12,7 +11,6 @@
     English
 
     Price
-
     Basic: $7.99/month/domain
     Premium: $16.99/month/domain
 
