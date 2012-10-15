@@ -1,3 +1,5 @@
+![Website Application Security Scanner](https://raw.github.com/GamaSec/GamaScan/master/public/images/logo-200.png "Website Application Security Scanner")
+
 #GamaSec
 
 ###Scan your Website today and find vulnerabilities before Hackers do!
