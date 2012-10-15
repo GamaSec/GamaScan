@@ -19,4 +19,6 @@
 
     GamaSec
 
-    [Terms of service](http://www.gamasec.com/TermsOfUse.aspx)
+    [Terms of service](https://www.gamasec.com/TermsOfUse.aspx)
+
+[Markdown](http://daringfireball.net/projects/markdown/syntax).
