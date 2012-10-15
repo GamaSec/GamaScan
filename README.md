@@ -52,9 +52,11 @@ GamaSec provides Web security application scan as a service through the Cloud. W
 
 ###GamaSec’s security offers all of these features:
 
- •SQL Injections
- •Cross-Site Scripting (XSS)
- •Application layers vulnerabilities check
+•        SQL Injections
+
+•        Cross-Site Scripting (XSS)
+
+•        Application layers vulnerabilities check
 
 •	Blacklisting verification
 
