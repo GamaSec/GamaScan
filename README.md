@@ -83,4 +83,4 @@ GamaSec provides Web security application scan as a service through the Cloud. W
 
 ![Website Application Security Scanner](https://raw.github.com/GamaSec/GamaScan/master/public/images/Seal.png "Website Application Security Scanner")
 
-GamaSec seal on your website give your customers/users the peace of mind of knowing that you are taking steps to help ensure their information will remain safe
+#####GamaSec seal on your website give your customers/users the peace of mind of knowing that you are taking steps to help ensure their information will remain safe
