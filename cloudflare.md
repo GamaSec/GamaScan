@@ -3,13 +3,13 @@
     
     App details
 	
- Category
+    Category
 	
-	Website Application Security Scanner
-        identify security weaknesses in web applications.
+    Website Application Security Scanner
+    identify security weaknesses in web applications.
     
-	Language
-	English
+    Language
+    English
 
     Price
 
