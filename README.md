@@ -1,4 +1,4 @@
-GamaSec
+#GamaSec
 
 Scan your Website today and find vulnerabilities before Hackers do!
 
