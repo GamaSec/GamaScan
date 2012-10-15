@@ -1,7 +1,7 @@
 ![Website Application Security Scanner](https://raw.github.com/GamaSec/GamaScan/master/public/images/logo-175.png "Website Application Security Scanner")
 
     
- App details
+    App details
 	
  Category
 	
