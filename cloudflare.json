@@ -53,7 +53,8 @@
 		"options": [
                             {
                                 "label": "HTTP",
-                                "value": "80"
+                                "value": "80",
+                                "selected": true
                             },                    
                             { 
                                 "label": "HTTPS",
