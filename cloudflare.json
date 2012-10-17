@@ -36,16 +36,16 @@
                                      "132px": "./public/images/132.png"
                                    }
 
-    },
-    "interface": [
-            {
+             },
+             "interface": [
+             {
                 "type": "string",
                 "name": "Port",
 		"id": "port",
                 "description": "Please enter domain port number.",
                 "domain_request": true
-            },
-	    {   
+             },
+	     {   
                 "type": "select",
 		"name": "Domain Protocol", 
 		"id": "Protocol",
@@ -61,19 +61,19 @@
                             }
                  ],   
 		"domain_request": true
-            },				
-	    {
+             },				
+	     {
                 "type": "string",
                 "name": "First Name",
                 "id": "first_name",
                 "domain_request": true
-            },
-            {
+             },
+             {
                 "type": "string",
                 "name": "Last Name",
                 "id": "last_name",
                 "domain_request": true
-            }
+             }
         ]
     }
 }
