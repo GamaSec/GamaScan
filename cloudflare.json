@@ -25,7 +25,7 @@
     },
     "config":{
                "details":{
-               "Category": "security monitoring",
+               "Category": "Application Vulnerability Scanner",
                "Language": "English",
                "Price": "Plans starting at just $7.99 a month",
                "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
