@@ -1,5 +1,3 @@
-#GamaSec
-
 ###Scan your Website today and find vulnerabilities before Hackers do!
 
 The GamaSec Application Vulnerability Scanner identifies application vulnerabilities ( e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc.. ) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.
