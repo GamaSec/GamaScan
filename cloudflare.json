@@ -3,75 +3,75 @@
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities ( e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc.. ) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.",
     "category": "security monitoring",
     "account": 
-			{
-				"callback_url": "http://81.218.57.250:11555/CloudFlare/",
-				"user_fields": ["email"]
-			},
+	     {
+		"callback_url": "http://81.218.57.250:11555/CloudFlare/",
+		"user_fields": ["email"]
+	     },
     "billing": 
-			{
+	     {
                 "type": "zone",
                 "plans":
-					    [
+			[
                            {                        
-								"name" : "Basic",                        
-								"price": "7.99"                
-							},
-							{                        
-								"name" : "Premium",                        
-								"price" : "16.99"                
-							}
-						]
-			},
+			     "name" : "Basic",                        
+			     "price": "7.99"                
+			   },
+			   {                        
+			     "name" : "Premium",                        
+			     "price" : "16.99"                
+			   }
+		        ]
+	      },
     "repository": 
-				{		
-					"type": "git",		
-					"url": "https://github.com/GamaSec/GamaScan.git"	
-				},
+	        {		
+		   "type": "git",		
+		   "url": "https://github.com/GamaSec/GamaScan.git"	
+		},
     "config":
-			{
+	    {
                "details":
-						{
-							"Category": "Application Vulnerability Scanner",
-							"Language": "English",
-							"Price": "Plans starting at just $7.99 a month",
-							"Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
-						},
-				"assets":
-						{
-							"logos" : 
-									{
-										"200px": "./public/images/GamaSec-200.png",
-										"132px": "./public/images/GamaSec-132.png"
-									}
-             },
-             "interface": 
-						[
-							{
-								"type": "string",
-								"name": "Port",
-								"id": "port",
-								"description": "Please enter domain port number.",
-								"domain_request": true
-							},
-							{   
-								"type": "select",
-								"name": "Domain Protocol", 
-								"id": "protocol",
-								"description": "Choose Protocol",
-								"options": 
-										 [
-											{
-												"label": "HTTP",
-												"value": "80",
-												"selected": true
-											},                    
-											{ 
-												"label": "HTTPS",
-												"value": "443"
-											}
-										],   
-								"domain_request": true
-							}
-						]
-			}
+			{
+			   "Category": "Application Vulnerability Scanner",
+			   "Language": "English",
+			   "Price": "Plans starting at just $7.99 a month",
+			   "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
+			},
+		"assets":
+		        {
+			   "logos" : 
+				   {
+				      "200px": "./public/images/GamaSec-200.png",
+				      "132px": "./public/images/GamaSec-132.png"
+				   }
+                        },
+                "interface": 
+			   [
+			      {
+				 "type": "string",
+				 "name": "Port",
+				 "id": "port",
+				 "description": "Please enter domain port number.",
+				 "domain_request": true
+			      },
+			      {   
+				 "type": "select",
+				 "name": "Domain Protocol", 
+				 "id": "protocol",
+				 "description": "Choose Protocol",
+				 "options": 
+					  [
+					     {
+						"label": "HTTP",
+					 	"value": "80",
+						"selected": true
+					     },                    
+					     { 
+						"label": "HTTPS",
+						"value": "443"
+					     }
+					  ],   
+				  "domain_request": true
+			       }
+			    ]
+	}
 }
