@@ -29,12 +29,12 @@
                "Language": "English",
                "Price": "Plans starting at just $7.99 a month",
                "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
-    },
-    "assets":{
-               "logos" : {
-                            "200px": "./public/images/200.png",
-                            "132px": "./public/images/132.png"
-                         }
+             },
+             "assets":{
+                        "logos" : {
+                                     "200px": "./public/images/200.png",
+                                     "132px": "./public/images/132.png"
+                                   }
 
     },
     "interface": [
