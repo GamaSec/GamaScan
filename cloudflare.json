@@ -9,7 +9,7 @@
     "billing": {
         "type": "zone",
         "plans":[
-            {                        
+                        {                        
 				"name" : "Basic",                        
 				"price": "7.99"                
 			},
@@ -25,7 +25,7 @@
 	},
     "config":{
         "details":{
-            "Category": "Application Vulnerability Scanner",
+            "Category": "security monitoring",
             "Language": "English",
             "Price": "Plans starting at just $7.99 a month",
             "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
@@ -41,29 +41,28 @@
             {
                 "type": "string",
                 "name": "Port",
-				"id": "port",
+		"id": "port",
                 "description": "Please enter domain port number.",
                 "domain_request": true
             },
-			{   
+	    {   
                 "type": "select",
-				"name": "Domain Protocol", 
-				"id": "Protocol",
+		"name": "Domain Protocol", 
+		"id": "Protocol",
                 "description": "Choose Protocol",
-				"options":
-                    [
-                        {
-                            "label": "HTTP",
-                            "value": "80"
-                        },                    
-                        { 
-                            "label": "HTTPS",
-                            "value": "443"
-                        }
-                    ],   
-			    "domain_request": true
+		"options": [
+                            {
+                                "label": "HTTP",
+                                "value": "80"
+                            },                    
+                            { 
+                                "label": "HTTPS",
+                                "value": "443"
+                            }
+                 ],   
+		"domain_request": true
             },				
-			{
+	    {
                 "type": "string",
                 "name": "First Name",
                 "id": "first_name",
