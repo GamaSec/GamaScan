@@ -48,7 +48,7 @@
 	     {   
                 "type": "select",
 		"name": "Domain Protocol", 
-		"id": "Protocol",
+		"id": "protocol",
                 "description": "Choose Protocol",
 		"options": [
                             {
