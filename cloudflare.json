@@ -32,8 +32,8 @@
              },
              "assets":{
                         "logos" : {
-                                     "200px": "./public/images/200.png",
-                                     "132px": "./public/images/132.png"
+                                     "200px": "./public/images/GamaSec-200.png",
+                                     "132px": "./public/images/GamaSec-132.png"
                                    }
 
              },
