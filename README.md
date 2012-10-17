@@ -1,8 +1,8 @@
 #GamaSec - CloudFlare App
 
-###Scan your Website today and find vulnerabilities before Hackers do!
+####Scan your Website today and find vulnerabilities before Hackers do!
 
-###GamaSec’s security offers all of these features:
+#####GamaSec’s security offers all of these features:
 
 •        SQL Injections
 
