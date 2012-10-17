@@ -61,19 +61,7 @@
                             }
                  ],   
 		"domain_request": true
-             },				
-	     {
-                "type": "string",
-                "name": "First Name",
-                "id": "first_name",
-                "domain_request": true
-             },
-             {
-                "type": "string",
-                "name": "Last Name",
-                "id": "last_name",
-                "domain_request": true
              }
-        ]
+      ]
     }
 }
