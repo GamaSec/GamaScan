@@ -41,8 +41,8 @@
         {
 	   "logos" : 
 	   {
-	      "200px": ".public/images/GamaSec-200.png",
-	      "132px": ".public/images/GamaSec-132.png"
+	      "200px": "./public/images/GamaSec-200.png",
+	      "132px": "./public/images/GamaSec-132.png"
 	   }
         },
         "interface": 
