@@ -60,7 +60,7 @@
                             "label": "HTTPS",
                             "value": "443"
                         }
-                    ]   
+                    ],   
 			    "domain_request": true
             },				
 			{
