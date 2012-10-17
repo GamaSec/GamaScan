@@ -3,41 +3,41 @@
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities ( e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc.. ) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.",
 	"category": "security monitoring",
     "account": {
-        "callback_url": "http://81.218.57.250:11555/CloudFlare/",
-        "user_fields": ["email"]
+    "callback_url": "http://81.218.57.250:11555/CloudFlare/",
+    "user_fields": ["email"]
     },
     "billing": {
-        "type": "zone",
-        "plans":[
-                        {                        
+                 "type": "zone",
+                 "plans":[
+                           {                        
 				"name" : "Basic",                        
 				"price": "7.99"                
-			},
-			{                        
+			   },
+			   {                        
 				"name" : "Premium",                        
 				"price" : "16.99"                
-			}
-        ]
+			   }
+    ]
     },
-	"repository": {		
-		"type": "git",		
-		"url": "https://github.com/GamaSec/GamaScan.git"	
-	},
+    "repository": {		
+		    "type": "git",		
+		    "url": "https://github.com/GamaSec/GamaScan.git"	
+    },
     "config":{
-        "details":{
-            "Category": "security monitoring",
-            "Language": "English",
-            "Price": "Plans starting at just $7.99 a month",
-            "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
-        },
-        "assets":{
-            "logos" : {
-                "200px": "./public/images/200.png",
-                "132px": "./public/images/132.png"
-            }
+               "details":{
+               "Category": "security monitoring",
+               "Language": "English",
+               "Price": "Plans starting at just $7.99 a month",
+               "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
+    },
+    "assets":{
+               "logos" : {
+                            "200px": "./public/images/200.png",
+                            "132px": "./public/images/132.png"
+                         }
 
-        },
-        "interface": [
+    },
+    "interface": [
             {
                 "type": "string",
                 "name": "Port",
