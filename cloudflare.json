@@ -1,11 +1,11 @@
 {
     "name": "GamaSec",
-    "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities ( e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc.. ) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.",
+    "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc..) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.",
     "category": "security monitoring",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "account": 
     {
-	"callback_url": "http://81.218.57.250:11555/CloudFlare/",
+	"callback_url": "http://81.218.57.250:11555/CloudFlare",
 	"user_fields": ["email"]
     },
     "billing": 
@@ -47,13 +47,6 @@
         },
         "interface": 
 	[
-	   {
-	      "type": "string",
-	      "name": "Port",
-	      "id": "port",
-	      "description": "Please enter domain port number.",
-	      "domain_request": true
-	   },
 	   {   
 	      "type": "select",
 	      "name": "Domain Protocol", 
@@ -72,6 +65,13 @@
 		}
 	      ],   
 	     "domain_request": true
+	   },
+           {
+	      "type": "string",
+	      "name": "Port",
+	      "id": "port",
+	      "description": "Please enter the domain's port number (e.g. 80,443 etc..)",
+	      "domain_request": true
 	   }
 	]
     }
