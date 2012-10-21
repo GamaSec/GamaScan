@@ -74,7 +74,7 @@
 	   },
            {
 	      "type": "string",
-	      "name": "Port",
+	      "name": "Port Number",
 	      "id": "port",
 	      "description": "Please enter the domain's port number (e.g. 80,443 etc..)",
 	      "domain_request": true
