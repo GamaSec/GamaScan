@@ -44,8 +44,7 @@ GamaSec provides Web security application scan as a service through the Cloud. W
 ####In Summary, Gamascan is an early-warning system of defense for web operation, applications, and online information suitable for organizations of any size operating on the internet.
 
 
-![Website Application Security Scanner](/images/apps/gamasec/example1.png "Website Application Security Scanner")
-![Website Application Security Scanner](/images/apps/gamasec/example2.png "Website Application Security Scanner")
+![Website Application Security Scanner](/images/apps/gamasec/example1.png "Website Application Security Scanner")![Website Application Security Scanner](/images/apps/gamasec/example2.png "Website Application Security Scanner")
 
 
 ###GamaSec’s security offers all of these features:
@@ -78,6 +77,6 @@ GamaSec provides Web security application scan as a service through the Cloud. W
 
 •	Security Seal
 
-![Website Application Security Scanner](/images/apps/gamasec/Seal.png "Website Application Security Scanner")
+![Website Security Seal](/images/apps/gamasec/Seal.png "Website Application Security Scanner")
 
 #####GamaSec seal on your website give your customers/users the peace of mind of knowing that you are taking steps to help ensure their information will remain safe
