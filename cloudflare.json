@@ -56,7 +56,7 @@
 	[
 	   {   
 	      "type": "select",
-	      "name": "Domain Protocol", 
+	      "name": "Domain's Protocol", 
 	      "id": "protocol",
 	      "description": "Choose Protocol",
 	      "options": 
@@ -78,7 +78,7 @@
 	      "name": "Port Number",
 	      "id": "port",
               "value": "80",
-	      "description": "Type the website's port number (e.g. 80,443)",
+	      "description": "Type the domain's port number (e.g. 80,443)",
 	      "domain_request": true
 	   }
 	]
