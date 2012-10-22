@@ -32,10 +32,11 @@
     {
         "details":
 	{
-	   "Category": "Application Vulnerability Scanner",
+	   "Category": "Website Application Security Scanner identify security weaknesses in web applications.",
 	   "Language": "English",
-	   "Price": "Plans starting at just $7.99 a month",
-	   "Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>View terms</a>"
+	   "Price": [{"Basic": "$7.99/month/domain"}, {"Premium": "$16.99/month/domain"}],
+           "GamaSec": "None", 	   
+"Restrictions": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
 	},
 	"assets":
         {
@@ -76,7 +77,8 @@
 	      "type": "string",
 	      "name": "Port Number",
 	      "id": "port",
-	      "description": "Please enter the domain's port number (e.g. 80,443 etc..)",
+              "value": "80",
+	      "description": "Type the website's port number (e.g. 80,443)",
 	      "domain_request": true
 	   }
 	]
