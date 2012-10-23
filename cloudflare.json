@@ -30,14 +30,6 @@
     },
     "config":
     {
-        "details":
-	{
-	   "Category": "Website Application Security Scanner identify security weaknesses in web applications.",
-	   "Language": "English",
-	   "Price": "Basic: $7.99/month/domain <br/>Premium: $16.99/month/domain",
-           "Restrictions": "None", 	   
-           "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
-	},
 	"assets":
         {
 	   "logos" : 
@@ -52,6 +44,14 @@
               "./public/images/Seal.png"			
            ]
         },
+        "details":
+	{
+	   "Category": "Website Application Security Scanner identify security weaknesses in web applications.",
+	   "Language": "English",
+	   "Price": "Basic: $7.99/month/domain <br/>Premium: $16.99/month/domain",
+           "Restrictions": "None", 	   
+           "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
+	},
         "interface": 
 	[
 	   {   
