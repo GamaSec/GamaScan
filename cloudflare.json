@@ -4,7 +4,7 @@
 vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code
 Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "account": 
     {
 	"callback_url": "http://81.218.57.250:11555/CloudFlare",
@@ -48,7 +48,7 @@ Inclusion, etc.) as well as site exposure risks.",
         },
         "details":
 	{
-	   "Category": "Website Application Security Scanner identify security weaknesses in web applications.",
+	   "Category": "Website Security Monitoring",
 	   "Language": "English",
 	   "Price": "Basic:<br/>$7.99 month/domain<br/><br/>Premium:<br/>$16.99 month/domain",
            "Restrictions": "None", 	   
