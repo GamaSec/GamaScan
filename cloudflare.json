@@ -53,8 +53,8 @@
            "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
 	},
         "interface": 
-	{  
-	 [
+	[  
+	 {
            "type": "select",
 	   "name": "Domain Protocol", 
 	   "id": "protocol",
@@ -72,7 +72,7 @@
 		"value": "443"
 		}
 	    ]
-         ]   
-	}
+         }   
+	]
     }
 }
