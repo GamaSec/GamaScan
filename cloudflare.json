@@ -54,7 +54,8 @@
 	},
         "interface": 
 	{   
-	   "type": "select",
+	 [
+           "type": "select",
 	   "name": "Domain Protocol", 
 	   "id": "protocol",
 	   "description": "Choose Protocol",
@@ -70,7 +71,8 @@
 		"label": "HTTPS",
 		"value": "443"
 		}
-	    ]   
+	    ]
+         ]   
 	}
     }
 }
