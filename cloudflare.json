@@ -32,7 +32,7 @@
     {
 	"assets":
         {
-	   "logos" : 
+	   "logos" :
 	   {
 	      "200px": "./public/images/GamaSec-200.png",
 	      "132px": "./public/images/GamaSec-132.png"
@@ -48,7 +48,7 @@
 	{
 	   "Category": "Website Security Monitoring",
 	   "Language": "English",
-	   "Price": "Basic: $7.99<br/>Premium: $16.99<br/><br/>month/domain",
+	   "Price": "Basic: $7.99<br/>Premium: $16.99<br/>Month/Domain",
            "Restrictions": "None", 	   
            "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
 	},
