@@ -5,7 +5,7 @@
     "version": "0.0.18",
     "account": 
     {
-	"callback_url": "http://81.218.57.250:11555/CloudFlare",
+	"callback_url": "http://81.218.69.26:11555/CloudFlare",
 	"user_fields": ["email"]
     },
     "billing": 
