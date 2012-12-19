@@ -1,5 +1,6 @@
 {
-    "name": "GamaSec",
+    "main":"public/javascripts/gamasec_cf.js",
+	"name": "GamaSec",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
     "version": "0.0.20",
@@ -51,6 +52,25 @@
 	   "Price": "Basic: $7.99<br/>Premium: $16.99<br/>Month/Domain",
            "Restrictions": "None", 	   
            "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
-	}
+	},
+	"interface": [
+            {
+                "id": "seal_badge",
+                "type": "select",
+                "name": "Seal widget",
+                "description": "Automatically embed the Seal widget on every page",
+                "options": [
+                    {
+                        "label": "Yes",
+                        "value": false,
+                        "selected": true
+                    },
+                    {
+                        "label": "No",
+                        "value": true
+                    }
+                ]
+            }
+        ]
     }
 }
