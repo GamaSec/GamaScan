@@ -1,6 +1,6 @@
 {
     "main":"public/javascripts/gamasec_cf.js",
-	"name": "GamaSec",
+    "name": "GamaSec",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
     "version": "0.0.20",
@@ -58,16 +58,20 @@
                 "id": "seal_badge",
                 "type": "select",
                 "name": "Seal widget",
-                "description": "Automatically embed the Seal widget on every page",
+                "description": "GamaSec seal badge position on every page",
                 "options": [
                     {
-                        "label": "Yes",
-                        "value": false,
+                        "label": "Bottom Right",
+                        "value": "Right",
                         "selected": true
                     },
                     {
-                        "label": "No",
-                        "value": true
+                        "label": "Bottom Left",
+                        "value": "Left"
+                    },
+                    {
+                        "label": "Do not insert GamaSec seal",
+                        "value": "None"
                     }
                 ]
             }
