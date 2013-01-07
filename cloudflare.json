@@ -57,7 +57,7 @@
             {
                 "id": "seal_badge",
                 "type": "select",
-                "name": "Seal widget",
+                "name": "",
                 "description": "GamaSec seal badge position on every page",
                 "options": [
                     {
