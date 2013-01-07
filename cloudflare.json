@@ -71,7 +71,7 @@
                     },
                     {
                         "label": "Do not insert GamaSec seal",
-                        "value": "None"
+                        "value": true
                     }
                 ]
             }
