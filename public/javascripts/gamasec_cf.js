@@ -17,9 +17,6 @@ CloudFlare.define("GamaSec",
 				{
 					addBadge(_config.seal_badge);
 				}
-				else
-				{				
-				}
 			}
 		}
 		lookForBadge();
