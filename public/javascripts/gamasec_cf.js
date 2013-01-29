@@ -13,7 +13,7 @@ CloudFlare.define("GamaSec",
 			}
 			else
 			{
-				if(!$("GamaSec-badge")[0] && !$(".GamaSec-embed")[0] && !$("#GamaSec-embed")[0])
+				if(!$("GamaSec-badge")[0])
 				{
 					addBadge(_config.seal_badge);
 				}
