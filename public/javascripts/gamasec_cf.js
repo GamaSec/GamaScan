@@ -1,5 +1,5 @@
-CloudFlare.define("GamaSec",
-    ["GamaSec/config", "cloudflare/jquery1.7"],
+CloudFlare.define("gamasec",
+    ["gamasec/config", "cloudflare/jquery1.7"],
     function(_config,$)
     {		
 		function addBadge(logoside){
