@@ -8,10 +8,7 @@ CloudFlare.define("GamaSec",
 			$("body").append(embeddedCode);
 		}
 		function lookForBadge(){
-			if(_config.seal_badge=="None")
-			{			
-			}
-			else
+			if(_config.seal_badge!="None")
 			{
 				if(!$("GamaSec-badge")[0])
 				{
