@@ -18,4 +18,4 @@ CloudFlare.define("gamasec",
 		}
 		lookForBadge();
     }
-);
+)
