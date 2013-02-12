@@ -3,7 +3,7 @@
     "name": "gamasec",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
-    "version": "0.0.26",
+    "version": "0.0.27",
     "account": 
     {
 	"callback_url": "http://81.218.69.26:11555/CloudFlare",
