@@ -3,7 +3,7 @@
     "name": "gamasec",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
-    "version": "0.0.30",
+    "version": "0.0.31",
     "account": 
     {
 	"callback_url": "http://81.218.69.26:11555/CloudFlare",
@@ -15,12 +15,16 @@
         "plans":
 	[
            {                        
-	     "name" : "Basic",                        
+	     "name" : "GamaWare",                        
 	     "price": "7.99"                
 	   },
            {                        
-	     "name" : "Premium",                        
+	     "name" : "GamaScan",                        
 	     "price" : "16.99"                
+	   },
+           {                        
+	     "name" : "GamaShield",                        
+	     "price" : "23.99"                
 	   }
 	]
     },
@@ -39,19 +43,18 @@
 	      "132px": "./public/images/GamaSec-132.png"
 	   },
            "detail_page":
-           [				
-              "./public/images/example1.png",
-              "./public/images/example2.png",
-              "./public/images/Seal.png"			
+           [
+              "./public/images/PlanDetails.png",
+              "./public/images/SealLogo.png"			
            ]
         },
         "details":
 	{
 	   "Category": "Website Security Monitoring",
 	   "Language": "English",
-	   "Price": "Basic: $7.99<br/>Premium: $16.99<br/>Month/Domain",
-           "Restrictions": "None", 	   
-           "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
+	   "Price": "GamaWare: $7.99<br/>GamaScan: $16.99<br/>GamaShield: $23.99<br/>Month/Domain",
+       "Restrictions": "None - Unlimited Scan", 	   
+       "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
 	},
 	"interface": [
             {

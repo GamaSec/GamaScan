@@ -1,23 +1,22 @@
-###Scan your Website today and find vulnerabilities before Hackers do!
+Web applications and Web Malware are proving to be the weakest link in overall corporate security. Organizations need a Web application scanning solution that can scan for security loopholes in Web-based applications to prevent would-be hackers from gaining unauthorized access to corporate applications and data and to prevent the injection suspicious files and malware. 
 
-The GamaSec Application Vulnerability Scanner identifies application vulnerabilities ( e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion etc.. ) as well as site exposure risks. It also ranks threat priority, produces highly graphical, intuitive HTML reports, and indicates site security posture by vulnerabilities and threat exposure.
+GamaSec's Web application scanner, which protects applications and servers from hackers, is an automated security service that searches for software vulnerabilities within Web applications. A Web application scanner crawls the entire website, analyzes in-depth each & every file, and displays the entire website structure. The scanner performs an automatic audit for common security vulnerabilities while launching a series of simulated Web attacks. 
 
-Built from the ground up on a completely different technology backbone than its competitors, GamaSec goes beyond signature-based tools to find more "real" vulnerabilities.
+The combination of daily malware detection helping in the protection of your website against suspicious files injection & Daily Blacklist Monitoring checking on the status of your website on the Google Safe Browsing List and other search engines & a remote online web vulnerability-scanner designed to identify security weaknesses in web applications give your website with an optimal protection cover. 
 
-Gamascan’s Web application scanner protects applications and servers from hackers. It is an automated security service that searches for software vulnerabilities within web applications.
+#####•        No software installation is needed
 
-Gamascan’s vulnerability assessment scan provides real-time vital business solutions. GamaScan identifies security web vulnerabilities and recommends optimally matched solutions. The fix or workaround solutions are identified & implemented when you need them not when it's too late.
+#####•        No limitation to the number of pages to be scan
 
-The GamaScan solution should be an integral part of your security protection strategy.
+#####•        Unlimited  Vulnerability & Malware Scan
 
-Most systems are vulnerable to thousands of known risk factors. GamaScan executes continuous dynamic tests combined with simulated web-application attacks during the scanning process to provide you the best application security scanner.
+#####•        Suitable for organizations of any size operating on the Internet
 
-No software installation is needed, for your entire website (no imitation to the number of pages) to be scan and secure.
+![Website Security Seal](/images/apps/gamasec/PlanDetails.png "GamaSec Plan Details")
 
+###Regular use of GamaSec’s on-demand vulnerability assessment service provides the following benefits:
 
-####Regular use of GamaSec’s on-demand vulnerability assessment service provides the following benefits:
-
-###Fully automated scans 
+###Fully automated scans
 
 No software or Hardware to install or manage- There is no need to install anything on your system. Schedules your scans to suit your needs
 
@@ -25,58 +24,24 @@ No software or Hardware to install or manage- There is no need to install anythi
 
 Online friendly user dashboard and on demand scheduler, designed report has been efficiently in color-coded and graphical format to provide the flexibility necessary to satisfy all audiences ranging from upper management to system administrators.
 
-###Web application SaaS Scanner 
+###Web application & Malware Scanner
 
-The new GamaSec portal Identifies major vulnerabilities: XSS, SQL injection, Cross Frame scripting, command execution, code injection and other web application vulnerabilities
+The new GamaSec portal Identifies major vulnerabilities: XSS, SQL injection, Cross Frame scripting, command execution, code injection and other web application vulnerabilities.
 
-###Update vulnerability protection 
+###Scan via Cloud Computing
 
-Vulnerabilities are updated on a daily basis from the GamaSec knowledge base, ensuring that you are always checked for the latest threats and vulnerabilities. Done  by experts. If something happens in the security world - we are the first to know. 
+GamaSec provides Web security application scan as a service through the Cloud. While avoiding maintenance costs, licensing costs and the costs of the hardware required to run servers on-site.
 
-###Trusted Website Security Seal 
+###Update vulnerability protection
 
-Trusted Website Protection seal Increased customer confidence leads to increased revenue, give your customers the peace of mind of knowing that you are taking steps to help ensure their information will remain safe and confidential, 
+Vulnerabilities are updated on a daily basis from the GamaSec knowledge base, ensuring that you are always checked for the latest threats and vulnerabilities. Done by experts. If something happens in the security world - we are the first to know.
 
-###Web Application Scan via Cloud Computing 
+###Trusted Website Security Seal
 
-GamaSec provides Web security application scan as a service through the Cloud. While avoiding maintenance costs, licensing costs and the costs of the hardware required to run servers on-site
+Trusted Website Protection seal Increased customer confidence leads to increased revenue, give your customers the peace of mind of knowing that you are taking steps to help ensure their information will remain safe and confidential.
 
-####In Summary, Gamascan is an early-warning system of defense for web operation, applications, and online information suitable for organizations of any size operating on the internet.
+![Website Security Seal](/images/apps/gamasec/SealLogo.png "GamaSec Seal")
 
+#####Secure your Website, Increase Your Sale 
 
-![Website Application Security Scanner](/images/apps/gamasec/example1.png "Website Application Security Scanner")![Website Application Security Scanner](/images/apps/gamasec/example2.png "Website Application Security Scanner")
-
-
-###GamaSec’s security offers all of these features:
-
-•        SQL Injections
-
-•        Cross-Site Scripting (XSS)
-
-•        Application layers vulnerabilities check
-
-•	Blacklisting verification
-
-•	Online Tech consulting ticket 24/7
-
-•	Cloud computing Dashboard Reports
-
-•	Daily update for new vulnerabilities
-
-•	Includes checks for all web-site attacks
-
-•	Executive and technical graphic report
-
-•	Immediate activation of the scan
-
-•	PDF format reports
-
-•	On demand scan/Scheduler
-
-•	Scan customization
-
-•	Security Seal
-
-![Website Security Seal](/images/apps/gamasec/Seal.png "Website Application Security Scanner")
-
-#####GamaSec seal on your website give your customers/users the peace of mind of knowing that you are taking steps to help ensure their information will remain safe
+#####GamaSec gives you complete peace of mind by managing all your security needs for you 
