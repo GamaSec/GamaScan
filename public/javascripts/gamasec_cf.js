@@ -5,7 +5,7 @@ CloudFlare.define("gamasec",
 		function addBadge(logoside){
 			var domainurl=config.domain_id;
 			
-			if( domainurl  == 0 && domainurl ==undefined)
+			if(domainurl ==undefined)
 			    {
 			    domainurl=location.hostname;
 			    }
