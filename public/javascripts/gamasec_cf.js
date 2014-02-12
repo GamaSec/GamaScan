@@ -3,14 +3,14 @@ CloudFlare.define("gamasec",
     function(config,$)
     {		
 		function addBadge(logoside){
-			var domainurl=config.domain_id;
-			var domainname=config.domain_name;
+			var domainname=config.domain_id;
+			var domainurl=config.domain_name;
 			
-			if(domainurl ==undefined)
+			if(domainname == undefined)
 			    {
 			    domainurl=location.hostname;
 			    }
-			var embeddedCode ="<div id=\"gamasec_badge\" style=\"bottom:0;position:fixed;"+logoside+":0;\"><a href=\"https://www.gamasec.com/Seal.aspx?domain="+domainurl+"&domainname="+domainname+"\" target=\"_blank\" onClick=\"javascript:void window.open('https://www.gamasec.com/Seal.aspx?domain="+domainurl+"&domainname="+domainname+"','GamaScan','toolbar=0,resizable=0,width=532px,height=700px,location=0,menubar=0,scrollbars=0,status=0','');return false;\"> <img border=\"0\" src=\"https://www.gamasec.com/images/seals/wseal.png\" alt=\"GamaScan\" oncontextmenu=\"alert('Copyright 2013 Gamasec Ltd | All rights reserved.');return false;\"></a></div>";
+			var embeddedCode ="<div id=\"gamasec_badge\" style=\"bottom:0;position:fixed;"+logoside+":0;\"><a href=\"https://www.gamasec.com/Seal.aspx?domain="+domainname+"&targeturl="+domainurl+"\" target=\"_blank\" onClick=\"javascript:void window.open('https://www.gamasec.com/Seal.aspx?domain="+domainname+"&targeturl="+domainurl+"','GamaScan','toolbar=0,resizable=0,width=532px,height=700px,location=0,menubar=0,scrollbars=0,status=0','');return false;\"> <img border=\"0\" src=\"https://www.gamasec.com/images/seals/wseal.png\" alt=\"GamaScan\" oncontextmenu=\"alert('Copyright 2014 Gamasec Ltd | All rights reserved.');return false;\"></a></div>";
 			$("body").append(embeddedCode);
 		}
 		function lookForBadge(){
