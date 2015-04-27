@@ -6,7 +6,7 @@
     "version": "0.0.37",
     "account": 
     {
-	"callback_url": "http://37.19.115.37:11555/CloudFlare",
+	"callback_url": "http://www.gamasec.com:11555/CloudFlare",
 	"user_fields": ["email"]
     },
     "billing": 
