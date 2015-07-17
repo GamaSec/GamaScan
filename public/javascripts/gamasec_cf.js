@@ -16,7 +16,7 @@ CloudFlare.define("gamasec",
 		function lookForBadge(){
 			if(config.seal_badge!="None")
 			{
-				if(!$("gamasec_badge")[0])
+				if(!$("#gamasec_badge")[0])
 				{
 					addBadge(config.seal_badge);
 				}
